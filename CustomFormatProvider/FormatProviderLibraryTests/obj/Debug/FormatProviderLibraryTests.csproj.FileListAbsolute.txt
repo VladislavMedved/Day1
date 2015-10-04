@@ -1,0 +1,7 @@
+d:\program files (x86)\visual studio 2013 community\Projects\NET.Medved.CustomFormatProvider\FormatProviderLibraryTests\bin\Debug\FormatProviderLibraryTests.dll
+d:\program files (x86)\visual studio 2013 community\Projects\NET.Medved.CustomFormatProvider\FormatProviderLibraryTests\bin\Debug\FormatProviderLibraryTests.pdb
+d:\program files (x86)\visual studio 2013 community\Projects\NET.Medved.CustomFormatProvider\FormatProviderLibraryTests\bin\Debug\FormatProviderLibrary.dll
+d:\program files (x86)\visual studio 2013 community\Projects\NET.Medved.CustomFormatProvider\FormatProviderLibraryTests\bin\Debug\FormatProviderLibrary.pdb
+d:\program files (x86)\visual studio 2013 community\Projects\NET.Medved.CustomFormatProvider\FormatProviderLibraryTests\obj\Debug\FormatProviderLibraryTests.csprojResolveAssemblyReference.cache
+d:\program files (x86)\visual studio 2013 community\Projects\NET.Medved.CustomFormatProvider\FormatProviderLibraryTests\obj\Debug\FormatProviderLibraryTests.dll
+d:\program files (x86)\visual studio 2013 community\Projects\NET.Medved.CustomFormatProvider\FormatProviderLibraryTests\obj\Debug\FormatProviderLibraryTests.pdb

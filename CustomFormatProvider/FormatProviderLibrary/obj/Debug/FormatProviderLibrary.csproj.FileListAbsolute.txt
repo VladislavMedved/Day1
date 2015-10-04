@@ -1,0 +1,4 @@
+d:\program files (x86)\visual studio 2013 community\Projects\NET.Medved.CustomFormatProvider\FormatProviderLibrary\bin\Debug\FormatProviderLibrary.dll
+d:\program files (x86)\visual studio 2013 community\Projects\NET.Medved.CustomFormatProvider\FormatProviderLibrary\bin\Debug\FormatProviderLibrary.pdb
+d:\program files (x86)\visual studio 2013 community\Projects\NET.Medved.CustomFormatProvider\FormatProviderLibrary\obj\Debug\FormatProviderLibrary.dll
+d:\program files (x86)\visual studio 2013 community\Projects\NET.Medved.CustomFormatProvider\FormatProviderLibrary\obj\Debug\FormatProviderLibrary.pdb
